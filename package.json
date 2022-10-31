@@ -1,0 +1,20 @@
+{
+  "name": "vicximovies",
+  "version": "1.0.0",
+  "description": "Es una app de de peliculas y utilizamos rest-api",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorgp1124/vicximovies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorgp1124/vicximovies/issues"
+  },
+  "homepage": "https://github.com/victorgp1124/vicximovies#readme"
+}
