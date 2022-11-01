@@ -125,6 +125,21 @@
   .header-container {
     padding-top: 40px;
   }
+
+  .lo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .logo {
+    width: 8em;
+  }
+
+  .lo {
+    display: flex;
+    align-items: center;
+  }
   
   .header-container--long {
     background-image: url('https://pics.filmaffinity.com/Deadpool-777527803-large.jpg');
