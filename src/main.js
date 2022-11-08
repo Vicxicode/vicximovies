@@ -29,7 +29,7 @@ function likedMovie(movie) {
     }
     localStorage.setItem('liked_movies',JSON.stringify(likedMovies));
     if (location.hash == ''){
-        homePage();
+        location.reload();
     }
 }
 
